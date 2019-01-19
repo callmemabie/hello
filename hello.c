@@ -3,7 +3,7 @@
  * Date: 2018/01/18
  */
 
-int main(void) {
+int main(int argc, char **argv) {
 
   printf("Stephen mabie\n");
   printf("Undeclared\n");
